@@ -1,12 +1,17 @@
 {
   "key1": "value1",
   "key2": "value2",
+  "key3": "value3",
   "service1": {
       "install": "true",
-      "image": "image1"
+      "git": "image1"
   },
   "service2": {
       "install": "true",
-      "image": "image2"
+      "jira": "image2"
+  },
+  "service3": {
+      "install": "true",
+      "jenkins": "buildnumber"
   }
 }
