@@ -8,7 +8,7 @@
      "jenkinsjob": {
      "name": "Dev-visibilityservice-build-branch",
      "buildid": "19",
-     "imageid": "nginx@sha256:2f6f8b826f1fe46e877b25860a0c21143e077dd12d7c1650cf41e31add847dbb"
+     "imageid": "pranabjyoti/multi-server@sha256:bddb6b44f6d9690da9a637719b83278b9e7b275cae113751e32410befbb50404"
      }
   },
   "backend": {
@@ -18,7 +18,7 @@
      "jenkinsjob": {
      "name": "Dev-visibilityservice-build-branch",
      "buildid": "20",
-     "imageid": "nginx@sha256:6907ea1bf7f121ae60f040dbca1ac676f42157face02d769cb8e39abdcd9b4fe"
+     "imageid": "pranabjyoti/multi-worker@sha256:4fa24effe897cc7be186d415b574301c0bbc758e26272905b8302d28271beaec"
      }
   } 
 }
